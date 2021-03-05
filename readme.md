@@ -6,7 +6,7 @@
 ### Stats time
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitsanujiw)](https://github.com/anuraghazra/github-readme-stats)
 
-### Wakatime
+### Wakatime 04/03/2021
 [![Pitsanujiw's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pitsanujiw)](https://github.com/anuraghazra/github-readme-stats)
 
 ### PIN
