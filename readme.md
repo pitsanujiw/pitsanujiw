@@ -14,3 +14,12 @@
 
 ### Stats Profile
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pitsanujiw&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Git
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manybaht/manybaht/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manybaht/manybaht/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/manybaht/manybaht/output/github-contribution-grid-snake.svg" />
+</picture>
