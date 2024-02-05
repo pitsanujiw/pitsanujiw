@@ -27,8 +27,6 @@
 ![Code wars](https://www.codewars.com/users/pitsanujiw/badges/large)
 
 ### Stats Profile
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pitsanujiw&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
 [![pitsanujiw's GitHub | Stats](https://stats.quine.sh/pitsanujiw/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pitsanujiw)
 
 ### Git
